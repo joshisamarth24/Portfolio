@@ -17,7 +17,7 @@ const about = () => {
 
       <div data-aos="fade-up" data-aos-delay="900" data-aos-anchor-placement="center-bottom">
         <button className="duration-500 mt-16 mr-4 hover:bg-transparent  bg-blue-500  hover:text-blue-500 text-main py-4 px-4 border border-transparent hover:border-blue-500 rounded-xl  font-Space font-semibold" onClick={() => window.location = `mailto: ${details.email}`}>Get in Touch</button>
-        <a href="https://drive.google.com/file/d/1-vtRbmNhldPQunSipBkBA-PKkV9beHKa/view?usp=sharing
+        <a href="https://drive.google.com/file/d/18Kae2vKZtUXGvuDVUvtxa12MDf93d_yc/view?usp=sharing
 " target="_blank"><button className=" text-blue-500 duration-500 mt-16 bg-transparent hover:bg-blue-500 hover:text-main py-4 px-4 border border-blue-500 hover:border-transparent rounded  font-Space font-semibold">Resume</button></a>
       </div>
     </div>
